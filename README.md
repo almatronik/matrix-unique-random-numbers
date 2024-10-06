@@ -1,4 +1,4 @@
-# 2D Array of random numbers in C
+# 2D Array of unique random numbers in C
 
 This is a program that I wrote as part of my C examination.
 
